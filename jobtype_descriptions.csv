@@ -1,0 +1,783 @@
+id,hs_customer,name,standard_price,bill_type,status
+15,4,Deliver Frac Tank,110,2,inactive
+17,5,Winch Truck - Pick Up,0,2,active
+18,5,TAG Truck,80,2,active
+19,5,Pull Pit,0,1,active
+20,5,Wash Out - Frac Tank,0,2,active
+22,5,Empty Vacuum Truck,0,2,active
+23,5,Vac Truck (Hourly Service),0,2,active
+24,5,Fresh Water,0,0,active
+25,5,Fresh Water,0,2,inactive
+26,5,Flow Back,0,1,active
+75,10,Voided Ticket,0,0,active
+76,10,Transfer,0,0,inactive
+77,10,Transfer,0,0,active
+86,10,Steamer,100,0,active
+87,10,Pull Bottoms,100,0,active
+159,5,Roll Off Box,0,2,active
+160,10,Training,0,2,active
+164,10,Transport - Other,90,2,active
+165,10,Freshwater Haul,90,2,active
+169,5,End Dump,0,2,active
+170,5,Roust-A-Bout,0,2,active
+174,10,Service Truck,100,2,active
+175,15,Water Hauling,0,2,inactive
+176,15,Freshwater,0.6,2,active
+177,15,Special Projects,150,1,inactive
+178,15,Special Projects,150,1,inactive
+179,15,Washout fee,150,1,inactive
+181,15,Plug Job,105,2,active
+182,5,Heavy Haul Job,0,2,active
+187,15,Service Work,105,2,active
+188,15,Flowback,1.3,1,inactive
+189,15,Frac Tank,200,1,inactive
+190,15,Frac Tank Rental,25,1,active
+194,5,Winch Truck - Service,0,2,active
+195,5,Pull BTM,0,2,inactive
+196,5,No Load,0,2,active
+197,5,FireWall,0,2,inactive
+198,5,LATX Equipment Issue,0,0,active
+199,5,Multiple Load Ticket,0,1,active
+200,5,Winch Truck - SET,0,2,active
+201,5,Winch Truck - Set,0,2,active
+202,5,Pull Btm / Xfer,0,2,inactive
+221,16,Haul Freshwater,115,2,active
+227,16,Pulled Bottoms,115,2,active
+228,16,Washout,150,1,active
+229,16,Containment Pulled,115,2,active
+230,16,Hauled Oil,115,2,active
+231,16,Jet Flowback Tank,115,2,active
+232,16,Frac Tank Rental,40,1,active
+233,16,Hauled 2% KCL to location,115,2,active
+234,16,Hauled Flowback to Disposal,115,2,active
+235,16,Hydrovac Hourly,350,2,active
+237,16,Hauled ABO,115,2,active
+238,16,Transport Hourly,115,2,active
+239,16,PLATE TANKS,115,2,active
+240,16,EMPTIED TANK FOR VALVE REPLACEMENT,115,2,active
+241,16,Plate tanks,115,2,active
+242,16,Emptied tank for valve replacement,115,2,active
+243,16,Filled frac tank,115,2,active
+250,16,Catch Fluid for Pipeline,115,2,active
+251,16,EMPTY PIT,115,2,active
+252,16,Empty frac tanks,115,2,active
+253,16,Hauled Flowback,115,2,active
+254,16,North Leedey SWD-Flowback,0.65,1,inactive
+255,16,South Leedey SWD- Flowback,0.65,1,inactive
+256,16,Smith Estate SWD- Flowback,0.65,1,inactive
+257,16,ZP-Flowback,0.65,1,inactive
+258,16,Oakwood SWD-Flowback,0.65,1,inactive
+259,16,Zephyr-Flowback,0.65,1,inactive
+260,16,Select-Ann SWD Flowback,0.7,1,inactive
+261,16,Shattuck SWD-Flowback,0.75,1,inactive
+262,16,Arnett SWD- Flowback,0.75,1,inactive
+263,15,Fire Damage,105,2,inactive
+265,16,CLEANED OUT HEATER TREATER,115,2,active
+266,16,Hauled OBM,115,2,active
+267,16,Kill Truck,150,2,active
+268,16,Hot Oil Unit,130,2,active
+272,16,EMPTY HEATER TREATER,115,2,active
+274,18,Water Base Liquids (hauled to spread site) 0-3 Miles,1.85,1,active
+275,18,TRANSFERRED PRODUCTION WATTER ON LOCATION,0,2,inactive
+276,18,Produced Water Hauling - Chapman Only,1.6,1,active
+277,18,Trucking - Transfer Lease Water,0,2,active
+278,18,Transfer Rate - Roser/Bucher Pipeline,0.77,1,active
+279,18,Liquid Hauling: 0-20 Miles,250,1,active
+280,18,NON-BILLABLE TICKET,0,2,inactive
+281,18,PULL FRAC TANK BOTTOMS,0,2,inactive
+282,18,Flowback,95,2,inactive
+283,18,Solids Hauling: 91-100 Miles,600,1,active
+284,19,Fresh Water,0,2,active
+285,19,Flowback,0,2,active
+286,19,Mud Hauling,0,2,active
+287,19,Wellsite Water Transfer,0,2,active
+288,19,Service Work,0,2,active
+289,20,Fresh Water,0,2,active
+290,20,Flowback,0,2,active
+291,20,Mud Hauling,0,2,active
+292,20,Wellsite Water Transfer,0,2,active
+293,20,Service Work,0,2,active
+294,20,Oil Transfer,0,2,active
+295,20,Truck maintenance,0,2,active
+297,20,Pull bottoms,0,2,active
+298,20,Flowback,0,2,active
+299,18,Transported Production Water from Location to Dispsosal,95,2,inactive
+300,18,TRANSPORTED (PR/CM/FB/SW) TO DISPOSAL,0,2,inactive
+302,18,Washout,175,1,inactive
+303,18,TRANSFERRED OBM ON LOCATION,0,2,inactive
+304,18,Stand By,85,2,active
+305,18,TRANSFERRED WBM ON LOCATION,0,2,inactive
+306,18,Produced Water Hauling - Route 503,1.25,1,active
+307,18,HAULED WBM TO DISPOSAL,105,2,inactive
+308,18,HAULED SALT WATER,0,2,inactive
+309,18,TRANSFERED FRESH WATER & OBM ON LOCATION,0,2,inactive
+310,18,TRANSFERRED FRESH WATER ON LOCATION,0,2,inactive
+311,18,SUPERVISOR ON SITE,0,2,inactive
+312,18,TRANSFERRED OBM ON LOCATION,0,2,inactive
+313,18,WASHOUT,175,1,inactive
+314,18,HAULED SLOP,0,2,inactive
+315,18,VENTED WELL HEAD ON LOCATION,0,2,inactive
+316,18,TRANSFERRED WBM ON LOCATION,0,2,inactive
+317,18,Produced Water Hauling - Roser-Bucher Only,1.5,1,active
+319,18,Roustabout: Containment Wall,55,2,active
+320,18,Pulling Unit - Equipment Maintenance,0,2,active
+321,18,WASH CREW,100,2,inactive
+322,18,Roustabout: Roll Casing,48,2,active
+323,18,Roustabout: Hydraulic Pump Operator,48,2,active
+324,18,MOVE WATER TANK ON LOCATION,115,2,inactive
+325,18,Roustabout: General Service,0,2,active
+326,18,Winch Truck w/Operator,135,2,active
+327,16,HAULED MUD,115,2,active
+328,20,requested stand by time,0,2,active
+329,20,Requested stand by time,0,2,active
+330,20,Brine Water,0,2,active
+332,18,WATER LEASE ROADS,105,2,inactive
+334,16,JET TANKS,150,2,active
+335,18,PIT CLEANING,0,2,inactive
+336,18,Trucking - Frac Tank Cleaning,0,2,active
+337,18,RIG CLEANING,0,2,inactive
+338,20,Carrera Enegry water hauling,0,2,active
+339,18,Trucking - Manifold Frac Tanks,0,2,active
+340,18,RENTAL EQUIPMENT DELIVERY/PICK-UP,0,1,inactive
+341,18,Roustabout: Rig Wash,0,2,active
+342,18,WAIT TIME ON LOCATION,105,2,inactive
+343,18,Water Base Solids (haul to spread site) 0-3 Miles,4.5,1,active
+344,19,Winch Truck,0,2,active
+345,19,Jetting Tanks,0,2,active
+346,19,Plate & Clean,0,2,active
+347,16,HOT SHOT,0,1,active
+348,16,HAULED METHANOL,115,2,active
+349,16,BOBTAIL,115,2,active
+350,18,SUCKED OUT CELLAR AND HAUL TO DISPOSAL,105,2,inactive
+351,18,SUCKED UP CELLAR MESS,0,2,inactive
+352,18,RINSED OFF TANK,0,2,inactive
+353,18,TRANSFERRED FRAC TANK ON LOCATION,0,2,inactive
+354,18,HAULED SALT WATER,0,1,inactive
+355,18,SHIFT CHANGE,0,1,inactive
+356,18,TRAVEL TIME,0,1,inactive
+357,16,SET ABO TANK,115,2,active
+358,16,HAULED SUPER LUBE,115,2,active
+359,18,TRANSFERRED OIL ON LOCATION,105,2,inactive
+360,18,TRANSFERRED OBM FROM OLD TO NEW LOCATION,105,2,inactive
+361,18,TRANSFERRED FRAC TANK FROM OLD TO NEW LOCATION,115,2,inactive
+362,18,Trucking - Transfer Fresh Water,0,2,active
+363,18,TRANSFERRED WBM FROM OLD TO NEW LOCATION,105,2,inactive
+364,18,TRANSFERRED PIT WATER TO DISPOSAL,105,2,inactive
+365,18,Trucking - Haul Formation Sand,0,2,active
+369,15,Haul out of Wash Bay,0,2,active
+370,16,SET FRAC TANK,115,2,active
+371,18,NON-BILLABLE TICKET,0,2,inactive
+372,18,HAULED RAIN WATER TO DISPOSAL,105,2,inactive
+373,18,Soil Farming - Hourly Work,0,2,active
+374,16,LOAD/UNLOAD CASING,0,1,active
+375,18,Transfer Rate - Chapman Pipeline,1.6,1,active
+376,18,PRE-LOADED CONTAMINATED WATER FOR RELIEF DRIVER,0,2,inactive
+377,18,TRANSFERRED PIT WATER ON LOCATION,0,2,inactive
+378,16,DOZER,125,2,active
+379,16,BLADE,125,1,active
+380,16,HAULED ROCK,0,1,active
+381,16,PICKUP ABO TANK,0,1,active
+385,16,DEVON-PATTERSON 574,0,1,inactive
+386,19,Rock Hauling,0,2,inactive
+387,19,Rock Hauling,10,1,active
+388,18,TRANSFERRED (PR/CM/FB/SW) ON LOCATION,105,2,inactive
+390,18,HAULED AMMONIA WATER TO DISPOSAL,110,2,inactive
+391,18,TURNPIKE FEE,25,2,inactive
+392,18,Transfer Rate - HR Potter Pipeline,0,1,active
+393,18,TURNPIKE FEE,25,2,inactive
+394,18,HAULED SAND TO LOCATION,105,2,inactive
+395,18,HAULED PEA GRAVEL,0,2,inactive
+396,18,Transfer Rate - Roser/Roser Pipeline,1.5,1,active
+397,19,Frac Tank Rental,25,2,active
+398,18,TRANSFER OIL ON LOCATION,105,2,inactive
+399,18,Transfer Rate - Calf Rope Pipeline,0.77,1,active
+400,18,Transfer Rate - Burton Pipeline,0.75,1,active
+450,18,Transfer Rate - Ellis Pipeline,0.55,1,active
+451,18,SET MIXER ON STAGING AREA,105,2,inactive
+452,18,SUCK OUT MANIFOLDS,105,2,inactive
+453,18,HAULED PIPELINE WATER TO DISPOSAL,105,2,inactive
+454,18,RELIEF DRIVER,105,2,inactive
+455,18,Trucking - Haul Rig,0,2,active
+456,18,HAULED SOLIDS TO DISPOSAL,105,2,inactive
+457,18,TRANSPORTED FRESH WATER TO DISPOSAL,105,2,inactive
+458,18,Fresh Water Hauling,95,2,active
+459,18,SWAMPER,55,2,inactive
+460,16,TRANSFERRED FLOWBACK,115,2,active
+461,20,Pull Bottoms,0,2,active
+462,20,Transfer frac tanks,0,2,active
+463,16,DIRT WORK,0,1,active
+464,18,HAULED SCREENINGS,105,2,inactive
+465,23,Pull Bottoms,105,2,active
+466,23,Set Frac Tank,105,2,active
+467,23,Pickup Frac Tank,105,2,active
+468,23,Skim s/w tank,105,2,active
+469,23,T/P,105,2,active
+470,23,T/P,105,2,active
+471,23,P/T,110,2,active
+472,5,Wash Out - Vacuum Trailer,0,2,active
+473,5,Rinse Out - Frac Tank,0,2,inactive
+474,5,Infield Water Hauling,0,1,active
+475,5,Service Work,0,2,active
+476,5,LATX Disposal,0,2,active
+477,5,3rd Party Disposal,0,2,active
+478,5,Flowback Hauling & Disposal,0,2,active
+479,5,Pitwater Hauling & Disposal,0,2,active
+480,5,Frac-Water Hauling & Disposal,0,2,active
+481,5,Equipment Rentals,0,1,active
+482,23,fb,1.6,1,active
+483,18,TRANSFERRED WATER ON LOCATION,105,2,inactive
+484,23,T/P Empty Tanks,105,2,active
+485,23,B/T,105,2,active
+486,23,H/O,120,2,active
+487,23,washer,100,2,active
+488,5,Service Work,0,2,active
+489,5,Customer Location Issue,0,2,active
+490,18,MATERIAL DELIVERY,105,2,inactive
+491,18,SUCKED UP WATER ON LOCATION,105,2,inactive
+492,16,LABOR,0,2,active
+493,16,WINCH TRUCK,115,2,active
+494,16,WINCH TRUCK,115,2,active
+497,18,TRANSFERRED OBM CONTAMINATED FLUIDS TO DISPOSAL,105,2,inactive
+498,18,TRANSFERRED (PR/CM/FB/SW) FROM OLD LOCATION TO NEW LOCATION,105,2,inactive
+499,16,CLEANED OUT HALF PIT,115,2,active
+500,16,TRANSFER OIL,0,2,active
+503,24,Pickup,110,2,active
+504,24,Delivery,110,2,active
+505,18,Trucking - Transfer Tank Bottoms,0,2,active
+506,16,JET FLOWBACK PIT,0,1,active
+507,18,VAC TRUCK,95,2,active
+510,16,Hauled Brine,115,2,active
+511,23,Help,0,2,active
+512,23,Welder,65,2,active
+514,16,CLEANED OUT FRAC TANK,115,2,active
+515,18,HAULED FLOWBACK,95,2,inactive
+517,18,HAULED ROCK FROM DOLESE,9.12,1,inactive
+518,18,TRANSFERRED FRESH WATER FROM NEW TO OLD LOCATION,105,2,inactive
+519,18,WATERED PAD FOR LOCATION,100,2,inactive
+520,23,Dump Truck,80,2,active
+522,18,TRANSFERRED OBM FROM RIG TO RIG,95,2,inactive
+523,18,Trucking - Haul Skim Oil,0,2,active
+524,18,SPREAD WATER ON LOCATION,95,2,inactive
+525,18,HAULED FRESHWATER,0,2,inactive
+526,18,TRANSFERRED SAND WATER TO DISPOSAL,105,2,inactive
+527,16,DEWATER PIPELINE,0,2,active
+528,18,SUCK OUT FLOW LINE AND BLOW INTO PRESS,95,2,inactive
+530,18,Trucking - Haul Rainwater,0,2,active
+538,19,Pull Bottoms,0,2,active
+539,19,Tank Cleanout,400,2,active
+540,18,PUMP TRUCK,135,2,inactive
+541,18,Soil Farming - Backhoe Work,0,2,active
+546,18,HAULED ROCK FROM DOLESE,9.12,1,inactive
+547,18,TRANFERRED WBM FROM RIG TO DISPOSAL,105,2,inactive
+548,18,TRANSFERRED WBM FROM RIG TO DISPOSAL,105,2,inactive
+549,18,PULLED FRAC SAND,105,2,inactive
+553,19,Set Frac Tank,250,2,active
+554,16,Emptied cellar,115,2,active
+555,18,TRANSFERRED WATER FROM FRAC TANK TO FRAC TANK ON LOCATION,105,2,inactive
+556,18,MOVE FRAC SAND ON LOCATION,105,2,inactive
+557,18,Liquid Hauling: 91-100 Miles,600,1,active
+560,18,JETTED PITS,95,2,inactive
+561,18,Trucking - Equipment Maintenance,55,2,active
+563,18,HAULED SLOP TO DISPOSAL,105,2,inactive
+564,19,Travis Peak,0,2,inactive
+567,23,Super Heater,350,2,inactive
+568,23,Super Heater,300,2,active
+569,16,FORKLIFT,120,2,active
+573,18,HAULED(PR/CM/FB/FW) TO RIG FROM DISPOSAL,0,2,inactive
+574,18,NON-BILLABLE TICKET,0,2,inactive
+575,18,SERVICE CALL,0,2,inactive
+577,18,Soil Farming - Spread Oil Based Cuttings from Berm,0,1,inactive
+578,18,Solids Hauling: 81-90 Miles,550,1,active
+579,18,Produced Water Hauling - Route 404,1.1,1,active
+580,18,TRANSPORTED (PR/CM/FB/SW) TO RIG,0,2,inactive
+581,16,EMPTIED SAND TRAP,115,2,active
+582,18,SUCK OUT FLOW BACK TANK AND HAULED TO DISPOSAL,0,2,inactive
+583,18,Produced Water Hauling - Route 406,1.2,1,active
+584,18,Liquid Hauling: 71-80 Miles,500,1,active
+585,18,Produced Water Hauling,0,1,active
+586,18,TRANSPORTED DRILL OUT FLUIDS TO DISPOSAL,105,2,inactive
+587,19,Service Work,0,2,inactive
+588,18,HAULED OBM FROM TEST FACILITY TO MUD PLANT,105,2,inactive
+589,18,Liquid Hauling: 21-30 Miles,300,1,active
+593,18,HAULED WBM TO MUD PLANT,0,2,inactive
+594,16,WATER SALES,0,1,active
+595,18,Trucking - Haul Salt Water,0,2,active
+596,18,Soil Farming - Spread Water Based Mud,0,1,active
+597,18,Pulling Unit - Completion,0,2,active
+598,18,SEPARATED OIL AND WATER FROM TANKS,105,2,inactive
+599,18,TRANSFERRED WATER AND OIL ON LOCATION,105,2,inactive
+600,18,Soil Farming - Turnkey Job,0,1,active
+601,5,SHOP - Misc.,0,2,inactive
+602,5,SHOP - A.C.,0,2,inactive
+603,5,SHOP - Chassis,0,2,inactive
+604,5,SHOP - Drive Line,0,2,inactive
+605,5,SHOP - Engine,0,2,inactive
+606,5,SHOP - DEF System,0,2,inactive
+607,5,SHOP - Accessories,0,2,inactive
+608,5,SHOP - Transmission,0,2,inactive
+609,5,SHOP - Fuel System,0,2,inactive
+610,5,SHOP - Brakes,0,2,inactive
+611,5,SHOP - Vacuum System,0,2,inactive
+612,5,SHOP - Electrical,0,2,inactive
+613,5,SHOP - Air System,0,2,inactive
+614,5,SHOP - Tires,0,2,inactive
+615,5,SHOP - Cooling System,0,2,inactive
+616,5,SHOP - Suspension,0,2,inactive
+617,5,SHOP - P.M.,0,2,inactive
+618,16,TRANSFER WATER,0,1,active
+619,16,TRANSFER MUD,0,1,active
+620,18,RETURN INCORRECT OBM TO HALLIBURTON POCASSET,105,2,inactive
+621,16,TRANSFER FLUID,0,1,active
+623,23,Backhoe,0,2,active
+624,18,Non-Billable: Woodward,0,0,inactive
+625,19,Oil Transfer,0,2,active
+626,18,SOILFARM BID,0,2,inactive
+627,18,HAULED SALT WATER TO DISPOSAL,0,1,inactive
+628,18,Non-Billable: Training,0,2,active
+629,18,SUCKED OUT FRAC TANKS,0,2,inactive
+630,18,YARD MAINTENANCE,0,2,inactive
+631,18,Roustabout: Lease Maintenance,0,2,active
+632,18,Non-Billable: Standby,0,2,active
+633,18,Non-Billable: Pre/Post Trip,0,2,active
+634,18,Non-Billable: Yard Cleanup,0,2,active
+635,18,HAULED SALT WATER TO LOCATION,0,2,inactive
+636,18,Pre/Post Trip,0,2,inactive
+637,18,PULLED VACCUM ON WELL,95,2,inactive
+638,18,PULLED VACCUM ON WELL,85,2,inactive
+639,18,Rental - Heat Up Frac Tank,160,2,active
+640,18,TRANSFERRED AMMONIA WATER FROM PIT TO FRAC TANK,0,2,inactive
+641,18,Trucking - Service Work,0,2,active
+642,18,Liquid Hauling: 81-90 Miles,550,1,active
+644,18,Oil Base Solids (haul to spread site) 0-3 Miles,5.5,1,active
+645,16,EMPTY SUMP,115,2,active
+646,18,Water Base Solids (haul to spread site) 4-6 Miles,4.75,1,active
+647,18,TRAINING,0,1,inactive
+648,18,Oil Base Permit,1,1,active
+649,18,HAULED ROCK FROM STEWART STONE,0,2,inactive
+650,18,HAULED ROCK,0,2,inactive
+651,19,ROCK HAULING,10.5,1,inactive
+652,18,Produced Water Hauling - Route 405,1.2,1,active
+653,18,Trucking - Rolling Tanks,0,2,active
+654,18,Truck Washout,500,1,active
+656,18,SKIM OIL FROM PIT PUT IN OIL TANK,0,1,inactive
+658,18,Produced Water Gathering and Disposal- Disposal Portion,0.4,1,active
+659,18,Produced Water Gathering and Disposal- Transfer Portion,0.43,1,active
+660,18,Water Base Permit,1,1,active
+661,18,Produced Water Hauling - Route 403,1.2,1,active
+662,23,Jet out F/T,0,2,active
+663,18,Trucking - Transfer Brine Water,0,2,active
+664,18,TRANSFERRED BRINE WATER FROM OLD LOCATION TO NEW LOCATION,105,2,inactive
+665,18,Soil Farming - Haul Oil Based Cuttings to Berm,0,1,inactive
+666,18,TRANSFERRED FRESH WATER FROM RIG TO RIG,105,2,inactive
+667,18,SUCKED UP WATER ON LOCATION AND HAULED TO DISPOSAL,105,2,inactive
+668,18,Soil Farming - Footage Job,0,1,active
+669,18,PIGGING THE LINE,0,2,inactive
+670,18,TRANSPORTED FRESH WATER TO RIG,95,2,inactive
+673,18,Non-Billable: Seminole,0,0,inactive
+674,18,Rush Permit,250,1,active
+675,18,Transfer Rate - Ruthie Pipeline,0.62,1,active
+676,18,PULL BOTTOM FROM STOCK TANK,0,2,inactive
+677,18,SKIM OIL FROM WATER TANK,0,2,inactive
+678,18,MOVE HALF PITS ON LOCATION,0,1,inactive
+679,18,130 BBL Vaccum Truck W/ Operator,95,2,active
+680,18,Transfer Rate - Mike Stroud Pipeline,0,1,active
+681,18,TRANSFERRED BRINE WATER ON LOCATION,105,2,inactive
+682,18,Non-Billable: Kingfisher,0,2,inactive
+683,18,Soil Farming - Haul Ag Lime to Spread Site,0,1,inactive
+684,18,Soil Farming - Spread Water Based Cuttings,0,1,active
+685,18,PULL BOTTOM FROM OIL TANK,0,2,inactive
+686,5,Berm Crew,0,2,active
+687,18,Oil Base Solids (haul to spread site) 4-6 Miles,6,1,active
+688,18,MAINTENANCE AT LOCATION,0,2,inactive
+689,18,cleaned out separator,0,2,inactive
+690,18,Soil Farming - Bobtail Work,0,2,active
+691,18,New Location Produced Water Hauling,0.83,1,active
+692,18,TRANSFERRED CEMENT RETURNS ON LOCATION,105,2,inactive
+693,18,OIL BASE DRILLING MUD,0,1,inactive
+696,18,UPFIT,0,2,active
+698,18,End Dump Truck w/Operator,110,2,active
+699,18,Light Plant Delivery/Return,85,2,inactive
+700,18,Produced Water Hauling - Route 401,1.25,1,active
+701,18,PICKED UP FRAC TANK WITH WINCH FOR SUCK OUT,0,1,inactive
+702,18,SKIM OIL AT ONE LOCATION AN TRANSFER TO NEW LOCATION,0,2,inactive
+703,18,Sucked Out SW Tank,0,1,inactive
+704,18,PUMP LEASE WATER TO KILL WELL,0,1,inactive
+708,18,KILL WELLS,0,1,inactive
+709,18,S/W Disposal,0.5,1,active
+710,18,HAULED STEEL,0,2,inactive
+711,18,Trucking - Bid,0,2,active
+712,18,TRANSFER ACID,0,1,inactive
+713,18,HAULED WBM FROM MUD PLANT TO LOCATION,0,2,inactive
+714,18,Liquid Hauling: 61-70 Miles,480,1,active
+715,18,TRANSFER OIL FROM OLD LOCATION TO NEW LOCATION,0,1,inactive
+716,18,Transfer Rate - Tyler Pipeline,0,1,active
+718,18,STAND BY FOR WELL KILL,0,1,inactive
+719,18,Brine/KCL/Completion Fluid Hauling,95,2,active
+720,18,Soil Farming - Spread Oil Based Cuttings,0,1,active
+721,18,Spill Control,0,2,active
+722,19,Bobtail,0,2,active
+723,18,Liquid Hauling: 41-50 Miles,400,1,active
+724,18,Trucking - Haul Misc Materials,0,2,active
+726,18,Trucking - Haul Oil Base Slop,0,2,active
+727,18,Trucking - Haul Water Based Slop,0,2,active
+728,18,Trucking - Water Based Mud,0,2,active
+729,18,Trucking - Flowback Water,0,2,active
+730,18,Trucking - Haul Oil Based Cuttings,0,2,inactive
+731,18,Trucking - Haul Contaminated Water,0,2,active
+732,18,Transport: Cement Returns,0,2,inactive
+733,18,Trucking - Haul Rock to Yard,0,2,inactive
+734,18,Pulling Unit - Pump Change,0,2,active
+735,18,Transport: Fresh Water,0,2,inactive
+736,18,Pulling Unit - Fishing Job,0,2,active
+737,18,Trucking - Haul Oil Based Mud to Location,0,2,inactive
+738,18,Pulling Unit - Swab,0,2,active
+739,18,Pulling Unit - Tubing Leak,0,2,active
+740,18,Transport: OBM,0,2,inactive
+741,18,Transport: WBM,0,2,inactive
+742,18,Flat Bottom Frac Tanks,30,1,active
+743,18,Half Pits,50,1,active
+744,18,Round Bottom Frac Tanks,50,1,active
+745,18,Transport: Chemicals,0,2,inactive
+746,18,Transport: HCl,0,2,inactive
+747,18,Transport: KCl,0,2,inactive
+748,18,Transport: Haul Biocide,0,2,inactive
+749,18,Transport: Rock,0,2,inactive
+750,18,Trucking - Haul Lease Water,0,2,active
+751,18,Transport: Frac Sand,0,2,inactive
+752,18,Transport: Equipment,0,2,inactive
+753,18,Trucking - Haul Equipment,0,2,active
+754,18,Solids Hauling: 0-20 Miles,250,1,active
+755,18,Solids Hauling: 21-30 Miles,300,1,active
+756,18,Service: Pump Truck,0,2,active
+758,18,Transport: Tank Bottom Waste,0,2,inactive
+759,18,Service: Pull Tank Bottoms,0,2,inactive
+760,18,Solids Hauling: 31-40 Miles,350,1,active
+762,23,W/T,105,2,active
+763,18,Trucking - Pick-up Frac Tank,0,2,active
+764,18,Trucking - Haul Waste Water,0,2,active
+765,18,Transport: Skim Oil,0,2,inactive
+766,18,Trucking - Haul Hot Oil,0,2,active
+768,18,Trucking - Deliver Frac Tank,0,2,active
+769,18,Transport: Frac Tank,0,2,inactive
+770,18,Non-Billable: Truck/Trailer R&M,0,2,active
+771,18,Trucking - Pick-up Half Pit,0,2,active
+772,18,Trucking - Deliver Half Pit,0,2,active
+773,18,Transport: Half Pit,0,2,inactive
+774,18,Trucking - Pick-up Round Bottom Frac Tank,0,2,active
+775,18,Trucking - Deliver Round Bottom Frac Tank,0,2,active
+776,18,Transport: Round Bottom Frac Tank,0,2,inactive
+777,18,Transport: Screening,0,2,inactive
+778,18,Transport: Mat Board,0,2,inactive
+779,18,Pulling Unit - Rig Up/Down,0,2,active
+780,18,Trucking - Pick-up Pump,0,2,active
+781,18,Trucking - Deliver Pump,0,2,active
+782,18,Transport: Pump,0,2,inactive
+783,18,Service: Transferred Oil (On Location),0,2,inactive
+784,18,Trucking - Transfer Oil,0,2,active
+785,18,Service: Transferred OBM (On Location),0,2,inactive
+786,18,Trucking - Transfer Oil Based Mud,0,2,active
+787,18,Service: Transferred WBM (On Location),0,2,inactive
+788,18,Trucking - Transfer Water Based Mud,0,2,active
+789,18,Service: Transferred Flowback Water on Location,0,2,inactive
+790,18,Trucking - Transfer Flowback Water,0,2,active
+791,18,Pulling Unit - Recompletion,0,2,active
+792,18,Transport: Lime,0,2,inactive
+793,18,Roustabout: Pigging the Line,0,2,active
+794,18,Service: Standby at Location,0,2,inactive
+795,18,Trucking - Misc Labor,0,2,active
+796,18,Service: Washout,0,2,inactive
+797,18,LOADER/FORKLIFT,0,2,inactive
+798,18,Trucking - Loader/Forklift,0,2,active
+799,18,Solids Hauling: 61-70 Miles,480,1,active
+800,18,Solids Hauling: 41-50 Miles,400,1,active
+803,16,CLEANED OUT SAND TRAP,0,1,active
+805,18,Trucking - Oil,0,2,active
+806,18,Transport: WBM Solids,0,2,inactive
+807,18,Transport: Dirt,0,2,inactive
+808,18,Trucking - Salt Water,0,2,active
+809,18,Liquid Hauling: 51-60 Miles,450,1,active
+810,18,Trucking - Haul Fresh Water,0,2,active
+811,18,Trucking - Transfer Salt Water,0,2,active
+812,18,Pulling Unit - General Service,0,2,active
+813,16,HAULED KCL WATER TO LOCATION,0,1,active
+814,18,Disposal: OBM,0,2,inactive
+815,18,Disposal: OBM,0,2,inactive
+816,18,Disposal: OBM,0,2,inactive
+817,18,Trucking - Haul Oil Based Mud,0,2,active
+818,18,Trucking - Haul Biocide,0,2,active
+819,18,Trucking - Haul Brine Water,0,2,active
+820,18,Trucking - Haul Chemicals,0,2,active
+821,18,Trucking - Haul Dirt,0,2,active
+822,18,Pulling Unit - ESP Pump Change,0,2,active
+823,18,Trucking - Haul Frac Sand,0,2,active
+824,18,Trucking - Transfer Frac Tank,0,2,active
+825,18,Trucking - Transfer Contaminated Water,0,2,active
+826,18,Trucking - Transfer Half Pit,0,2,active
+827,18,Trucking - Haul HCL,0,2,active
+828,18,Trucking - Haul KCL,0,2,active
+829,18,Trucking - Haul Lime,0,2,active
+830,18,Trucking - Haul Mat Board,0,2,active
+831,18,Pulling Unit - Standby,0,2,active
+832,18,Pulling Unit - Workover,0,2,active
+833,18,Trucking - Transfer Pump,0,2,active
+834,18,Trucking - Haul Rock,0,2,active
+835,18,Trucking - Transfer Round Bottom Frac Tank,0,2,active
+836,18,Pulling Unit - Yard,0,2,active
+837,18,Trucking - Haul Screening,0,2,active
+838,18,Trucking - Haul Water Based Mud to Location,0,2,inactive
+839,18,Trucking - Haul Cement Returns,0,2,active
+840,18,Trucking - Haul Contaminated Water,0,2,inactive
+841,18,Trucking - Haul Flowback Water,0,2,active
+842,18,Trucking - Haul Oil Based Slop,0,2,active
+843,18,Trucking - Haul Tank Bottoms,0,2,active
+844,18,Trucking - Haul Water Based Mud,0,2,active
+845,18,Trucking - Haul Water Based Cuttings,0,2,inactive
+846,18,Solids Hauling: 51-60 Miles,450,1,active
+847,18,Non-Billiable: Chickasha,0,0,inactive
+848,18,Roustabout: New Lease Construction,0,2,active
+849,18,Service: Spill Control,0,2,inactive
+850,18,Service: Swamper,0,2,inactive
+851,18,Trucking - Transfer Skim Oil,0,2,active
+852,16,CLEAN OUT SEPARATOR,0,2,active
+855,16,LOAD TUBING,0,1,active
+860,16,FRESH WATER SALES,0.65,1,active
+861,18,Liquid Hauling: 31-40 Miles,350,1,active
+862,18,Non-Billable: Auction Related Work,0,2,active
+866,16,HAULED CEMENT RETURNS,0,1,active
+872,18,No Charge: El Reno,0,2,inactive
+873,18,No Charge: Canute,0,2,inactive
+874,18,No Charge: Chickasha,0,2,inactive
+875,18,No Charge: Hennessey,0,2,inactive
+876,18,No Charge: Lindsay,0,2,inactive
+877,18,No Charge: Watonga,0,2,inactive
+878,18,No Charge: Woodward,0,2,inactive
+879,18,Non-Billable: Lindsay,0,2,inactive
+880,18,Non-Billable: Incorrect Dispatch Info,0,2,active
+881,15,Freshwater haul,105,2,active
+882,18,Transport: Hot Oil,0,1,inactive
+892,18,Transport: Brine Water,0,1,inactive
+893,18,Transport: Oil Based Cuttings,0,1,inactive
+894,16,Returned ABO,0,1,active
+900,4,Water Hauling,1.4,1,active
+901,4,Flowback,1.4,1,active
+902,4,Pull Bottoms,110,2,inactive
+903,4,Empty Containment,110,2,inactive
+904,4,Heat Tanks,110,2,inactive
+905,4,Fresh Water Delivery,110,2,inactive
+906,4,KCL Delivery,110,2,inactive
+907,4,Mud Delivery,110,2,inactive
+908,4,Pump Water Down Casing,110,2,inactive
+909,20,Acid,0,2,active
+910,28,Water Hauling,0,2,active
+911,28,Flowback,0,2,active
+913,18,Training,0,2,inactive
+914,15,Haul Flowback,105,2,active
+915,16,Equipment Cleanout,0,2,active
+1259,28,Haul Brine to Location,100,2,active
+1260,28,Pull Bottoms,0,2,active
+1261,28,Oil Transfer,0,2,active
+1262,28,Containment/Cellar clean-up,0,2,active
+1263,28,Haul Fresh Water to Location,0,2,active
+1264,28,Haul KCL to Location,0,2,active
+1265,28,Service work,0,2,active
+1266,28,Haul Flowback Water,85,2,inactive
+1268,18,Trucking - Oil,0,2,active
+1281,4,Pump Truck,140,2,active
+1282,4,Bobtail,100,2,active
+1283,4,Winch Truck,110,2,active
+1284,4,Hot Oiler,140,2,active
+1285,4,Transport,110,2,active
+1286,16,Jet truck,0,2,active
+1289,18,Soil Farming,0,2,inactive
+1296,28,Washout,150,2,active
+1297,4,10K Pump Truck,150,2,active
+1299,16,Cleaned out vessel,0,1,active
+1300,18,Solids Hauling: 71-80 Miles,500,1,active
+1301,16,Mud,0,1,active
+1302,18,Soil Farming - OCC Permit Fee,0,2,active
+1303,18,Soil Farming - Deliver Ag Lime,0,1,active
+1304,18,Soil Farming - Washout,0,2,active
+1305,18,Transport: Misc,0,2,inactive
+1306,15,Deliver and set frac tank(s),200,1,active
+1307,15,Release and pick up frac tank(s),200,1,active
+1308,18,Water Base Liquids (hauled to spread site) 4-6 Miles,2,1,active
+1309,18,SF End Dumps - Haul Oil Based Cuttings to Disposal,0,2,active
+1310,18,SF End Dumps - Haul Water Based Cuttings to Disposal,0,2,active
+1311,18,SF End Dumps - Haul Contaminated Dirt to Disposal,0,2,active
+1312,16,Disposal,0,1,active
+1380,23,Nightwatch,30,2,active
+1381,34,Lease Water,105,2,active
+1382,34,Haul Mud to Location,100,2,active
+1383,34,General Service Work,100,2,active
+1384,34,Haul Freshwater to Location,100,2,active
+1385,34,Flowback,100,2,active
+1404,16,Pressure wash,100,2,active
+1761,16,Delivery,0,2,active
+1764,18,Trucking - Transport ABO,0,2,active
+1766,34,Lease to Lease Transfer,100,2,active
+1767,16,Backhoe,125,2,active
+1768,16,Steamer,160,2,active
+1769,34,Half Pits/Containments,105,2,active
+1771,37,Water Haul,2.05,1,active
+1772,37,Flowback,2.05,1,active
+1773,37,Standby,110,2,active
+1776,18,Trucking - Half Pit Cleaning,0,2,active
+1777,34,Brine Water,8,1,active
+1778,37,Cellar Clean Out,200,2,active
+1779,37,Slop,110,2,active
+1780,37,OBM,110,2,active
+1781,37,WBM,110,2,active
+1782,37,Rock/ Gravel,7,1,active
+1783,24,crane rent,2400,1,active
+1827,18,Roustabout: Bid,0,2,active
+1829,37,Cement Kill Dust,110,2,active
+1830,37,Pipe,110,2,active
+1831,37,Washout,150,2,active
+1844,37,Pit Clean Out,110,2,active
+1850,37,Transfer fluids,110,2,active
+1851,39,Waterhauling,1.5,1,active
+1852,39,Flowback,1.5,1,active
+1853,39,Winch Truck,75,2,active
+1854,39,Service Work,65,2,active
+1855,37,Chemicals,110,2,active
+1856,37,Lime-Ton,12.6,1,active
+1857,37,Lime- Bags,650,1,active
+1858,16,Dirt Sales,0,1,active
+1859,34,Trucking Only,100,2,active
+1860,16,Knockout Cleanout,0,2,active
+1861,37,Other,110,2,active
+1865,34,Skim/Transfer Oil,100,2,active
+1866,37,Cuttings,95,2,active
+1867,34,Transfer on location,100,2,inactive
+1868,34,Transfer on location,100,2,active
+1869,40,Flowback,0,1,active
+1870,40,Service Work,0,2,active
+1871,40,Waterhauling,0,1,active
+1872,40,Winch Truck,0,2,active
+1874,15,Pump Truck,140,2,active
+1875,41,Pulled Tank Bottoms,85,2,active
+1876,41,CaCI Delivery,85,2,active
+1877,41,CDL Driver,85,2,active
+1878,41,Pulled Cellars,85,2,active
+1879,41,Containment Pull,85,2,active
+1880,41,Hauled Crude Oil,0,1,active
+1881,41,Hauled Solids in End Dump,85,2,active
+1882,41,Pulled Firewall,85,2,active
+1883,41,Hauled Pipe,100,2,active
+1884,41,KCL Delivery,85,2,active
+1885,41,Hauled Oil Based Mud,85,2,active
+1886,41,Hauled Pit Water,85,2,active
+1887,41,Hauled Muddy Pit Water,85,2,active
+1888,41,Service Work,85,2,active
+1889,41,Hauled Sludge,85,2,active
+1890,41,Hauled Water Based Mud,85,2,active
+1891,41,Rejected Load,75,2,active
+1892,41,Hauled Fresh Water,85,2,active
+1893,41,Hauled Flowback,85,2,active
+1894,41,Hauled Dirty Flowback,85,2,active
+1895,41,Equipment Rental,0,1,active
+1896,41,Freight,0,2,active
+1897,41,Water Hauling,85,2,active
+1905,37,Work on Location,110,2,active
+1907,28,Hauling Mud,0,2,active
+1908,5,K Flow Back,0,1,active
+1909,40,CC,0,1,active
+1910,40,MIKE,0,1,active
+1914,37,Spread rock/gravel,75,2,active
+1940,34,No Load,95,2,active
+1941,41,Equipment Haul,0,2,active
+1944,19,No Load,0,2,inactive
+1945,19,No Load,0,2,active
+1946,37,Dirt,115,2,active
+1948,37,Frac Tank Rental,35,1,active
+1949,37,Winch Truck,115,2,active
+1950,37,Frac Tank Rental,0,1,inactive
+1954,45,Soil Farming - Backhoe Work,0,2,active
+1955,45,Soil Farming - Bobtail Work,0,2,active
+1956,45,Soil Farming - Deliver Ag Lime,0,2,active
+1957,45,Soil Farming - Footage Job,0,2,active
+1958,45,Soil Farming - Hourly Work,95,2,active
+1959,45,Soil Farming - OCC Permit Fee,1500,1,active
+1960,45,Soil Farming - Spread Oil Based Cuttings,0,2,active
+1961,45,Soil Farming - Spread Water Based Cuttings,0,2,active
+1962,45,Soil Farming - Spread Water Based Liquids,0,2,active
+1963,45,Soil Farming - Turnkey Job,0,2,active
+1964,45,Soil Farming - Washout,0,2,active
+1965,45,130 BBL Vacuum Truck w/ Operator,110,2,active
+1966,45,End Dump Truck w/Operator,0,2,active
+1967,45,SF End Dumps - Haul Oil Based Cuttings to Disposal,0,2,active
+1968,45,SF End Dumps - Haul Water Based Cuttings to Disposal,0,2,active
+1969,45,Solids Hauling: 0-20 Miles,0,2,active
+1970,45,Solids Hauling: 21-30 Miles,300,1,active
+1971,45,Solids Hauling: 31-40 Miles,350,1,active
+1972,45,Solids Hauling: 41-50 Miles,0,2,active
+1973,45,Solids Hauling: 51-60 Miles,0,2,active
+1974,45,Solids Hauling: 61-70 Miles,0,2,active
+1975,45,Solids Hauling: 71-80 Miles,0,2,active
+1976,45,Solids Hauling: 81-90 Miles,0,2,active
+1977,45,Solids Hauling: 91-100 Miles,0,2,active
+1978,34,Pull Bottoms,95,2,active
+1979,39,WINCH TRUCK,0,1,active
+1980,45,Water Hauling,0,2,inactive
+1981,45,Flowback,0,2,active
+1982,37,Helper,35,2,active
+1983,37,Pull Bottoms,105,2,active
+1984,37,Haul fresh water,105,2,active
+1985,37,Pump Truck,0,2,active
+1986,37,Empty containment,110,2,active
+1988,45,Soil Farming - Trackhoe Work,925,1,active
+1989,15,Hot Oiler,140,2,active
+1990,45,Soil Farming - Testing of Soil,0,1,active
+1991,45,Soil Farming - Winch Truck,115,2,inactive
+1992,45,Soil Farming - Winch Truck & Trailer,125,2,inactive
+1993,45,SF End Dumps - Winch Truck,115,2,active
+1994,45,SF End Dumps - Winch Truck & Trailer,125,2,active
+1995,45,Non-bill - Spread Berm,0,2,active
+1996,45,Non-bill - Move Equipment,0,2,active
+1997,45,Non-bill - Equipment Maintenance,0,2,active
+1998,45,Non-bill - Haul Lime,0,2,active
+1999,45,Soil Farming - 1/2 Pit Rental,0,1,active
+2002,45,Non-bill - Pretrip,0,1,active
+2003,37,Flex Base,14.4,1,active
+2004,37,Roll mud,105,2,active
+2006,15,Winch Truck,115,2,active
+2007,45,Soil Farming - Frac Tank Rental,0,1,active
+2008,45,Soil Farming - Drag the Field,1000,1,active
+2009,45,SF End Dumps - Hourly Work,0,2,active
+2010,45,Soil Farming - Winch Truck,115,2,active
+2011,45,Soil Farming - Winch Truck & Trailer,125,2,active
+2012,19,Drill Out,0,2,inactive
+2013,19,Drill Out,0,2,active
+2014,45,SF End Dumps - Disposal Fee,0,2,active
+2017,45,Soil Farming - Other,0,1,active
+2018,45,SF End Dumps - Other,0,1,active
+2019,39,Fresh Water Sales,0.25,1,active
+2020,45,Soil Farming - Discount for trucking during rain,0,2,active
+2021,45,Soil Farming - Haul Compost,0,1,active
+2022,45,SF End Dumps - Haul Compost,0,1,active
+2023,45,SF End Dumps - Compost,95,1,active
+2024,45,Soil Farming - Trackhoe Rental,250,1,active
+2025,45,SF End Dumps - Haul Contaminated Soil,400,1,active
+2029,10,PRODUCED/PRODUCED/RAIN WATER,95,2,active
+2030,10,PRODUCED/PRODUCED/TANK BOTTOM PULL,95,2,active
+2031,10,PRODUCED/PRODUCED/CONTAINMENT PULL,95,2,active
+2032,10,PRODUCED/PRODUCED/BRINE,95,2,active
+2033,34,Water Hauling - Haul & Disposal,1.65,1,active
+2034,34,Water Hauling - Haul & Disposal,1.6,1,active
+2035,34,Water hauling to Suzane/Barton-Hauling Only,1.05,1,active
+2036,34,Hourly Service Work - as needed by Encana's request,95,2,active
+2037,28,Transfer Fluids,0,2,active
+2038,10,PRODUCED/PRODUCED/OPERATIONS,95,2,active
+2039,10,OIL/TRANSFER,95,2,active
+2040,15,Operator/Foreman,65,2,active
+2041,34,Winch Truck,100,2,active
+2042,34,Winch Truck,100,2,active
+2043,41,Standby,85,2,active
+2044,23,H/O Hot oil tanks,0,2,active
+2045,23,H/O Hot oil flowlines,0,2,inactive
+2046,23,H/O hot oil flowlines,0,2,active
+2047,37,Skim Oil,110,2,active
+2048,37,Drilling,0,1,active
+2049,37,Drilling Fluids,0,2,active
+2050,10,Fresh/Operations/Production,95,2,active
+2062,45,Transports - Hourly Work,95,2,active
